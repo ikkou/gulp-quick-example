@@ -1,4 +1,4 @@
-gulp-example-assemble
+gulp-quick-example
 =====================
 
 ## Getting Started
@@ -14,3 +14,5 @@ If you want to check htmlhint and csslint.
 ```
 gulp lint
 ```
+
+If you want to use livereload, please install [livereload chrome extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei).
